@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Надежда Кочетова](https://up.htmlacademy.ru/htmlcss/21/user/645343).
-* Наставник: `Неизвестно`.
+* Наставник: [Алина Ваниева](https://htmlacademy.ru/profile/alivander)
 
 ---
 
